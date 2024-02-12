@@ -1,0 +1,52 @@
+-- Gallery --
+
+<div class="carousel-wrap" style="position: relative;"><div class="caroufredsel_wrapper" style="text-align: start; float: none; position: relative; inset: 0px; z-index: auto; width: 1160px; height: 117.562px; margin: 0px; overflow: hidden; cursor: move;"><ul class="themify_builder_slider carousel_init" data-id="slider-4356-0-0-1" data-visible="1" data-mob-visible="" data-scroll="1" data-auto-scroll="7" data-speed="4" data-wrap="no" data-arrow="no" data-pagination="no" data-effect="fade" data-height="variable" data-pause-on-hover="false" data-horizontal="" style="text-align: left; float: none; position: absolute; inset: 0px auto auto 0px; margin: 0px; width: 19720px; height: 220.438px; opacity: 1; z-index: auto;">
+                            
+            
+            
+            
+            
+            
+            
+            <li style="width: 1160px;">
+            <div class="slide-inner-wrap">
+                <div class="slide-content tb_text_wrap">
+                    <h6>If you want new, young customers, you need to have a brand that is sexy and sporty. <br>Making our cars more sporty or sexy doesn’t necessarily mean older people won’t like them. <br>– Dr Joachim Schmidt (Executive Vice-President of Sales and Marketing Mercedes-Benz Cars)</h6>                </div><!-- /slide-content -->
+            </div>
+        </li>
+            <li style="width: 1160px;">
+            <div class="slide-inner-wrap">
+                <div class="slide-content tb_text_wrap">
+                    <h6>Made by Mercedes. – Mercedes-Benz<br>Engineered like no other car in the world. – Mercedes-Benz<br>The future of Automobile, Engineered to move human spirit. – Mercedes-Benz</h6>                </div><!-- /slide-content -->
+            </div>
+        </li><li style="width: 1160px;">
+            <div class="slide-inner-wrap">
+                <div class="slide-content tb_text_wrap">
+                    <h6>Das Beste oder nichts. The best or nothing. – Mercedes-Benz <br>The automotive declaration of independence. – Mercedes-Benz</h6>                </div><!-- /slide-content -->
+            </div>
+        </li><li style="width: 1160px;">
+            <div class="slide-inner-wrap">
+                <div class="slide-content tb_text_wrap">
+                    <h6>The 1996 Mercedes-Benz A-Class. A strong piece of future. – Mercedes-Benz <br>The A-Class comes to the people. – Mercedes-Benz</h6><h6>The 2005 Mercedes-Benz C230 Kompressor. Now you can close your mouth. – Mercedes-Benz</h6><h6>A Mercedes SUV – Go where other 4 x 4’s fear to tread. – Mercedes-Benz</h6><h6>The new 2013 Mercedes-Benz four-door Coupe. Untamed. The new CLA. – Mercedes-Benz</h6>                </div><!-- /slide-content -->
+            </div>
+        </li><li style="width: 1160px;">
+            <div class="slide-inner-wrap">
+                <div class="slide-content tb_text_wrap">
+                    <h6>See. And be seen. – Mercedes-Benz <br>Electrifying. Energetic. Efficient. – Mercedes-Benz <br>Streetwise. – Mercedes-Benz</h6>                </div><!-- /slide-content -->
+            </div>
+        </li><li style="width: 1160px;">
+            <div class="slide-inner-wrap">
+                <div class="slide-content tb_text_wrap">
+                    <h6>The natural enemy of the ordinary. – Mercedes-Benz<br>Sit back. – Mercedes-Benz</h6>                </div><!-- /slide-content -->
+            </div>
+        </li><li style="width: 1160px;">
+            <div class="slide-inner-wrap">
+                <div class="slide-content tb_text_wrap">
+                    <h6>Everybody knows what a Mercedes-Benz looks like, but few know how it feels. – Mercedes-Benz <br>Connected with all senses. – Mercedes-Benz<br>Fall in Love. – Mercedes-Benz</h6>                </div><!-- /slide-content -->
+            </div>
+        </li><li style="width: 1160px;">
+            <div class="slide-inner-wrap">
+                <div class="slide-content tb_text_wrap">
+                    <h6>Timelessly beautiful. – Mercedes-Benz <br>Design that gets under the skin. – Mercedes-Benz <br>Instinctively stylish. – Mercedes-Benz <br>A temple of elegance. – Mercedes-Benz</h6>                </div><!-- /slide-content -->
+            </div>
+        </li></ul></div></div>
