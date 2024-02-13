@@ -589,13 +589,13 @@ p {
 }
 
 /* ===== Features CSS ===== */
-.features {
+.services {
   padding-top: 120px;
   padding-bottom: 90px;
 }
 
 @media (max-width: 767px) {
-  .features {
+  .services {
     padding-top: 80px;
     padding-bottom: 40px;
   }
@@ -755,6 +755,40 @@ p {
   transition: all 0.3s ease-out 0s;
 }
 
+/* ===== Location ===== */
+.location {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background: white;
+  position: relative;
+  z-index: 1;
+}
+
+@media (max-width: 767px) {
+  .location {
+    padding-top: 80px;
+    padding-bottom: 50px;
+  }
+}
+
+
+/* ===== Contact ===== */
+.contact {
+  padding-top: 120px;
+  padding-bottom: 90px;
+  background: #f3f4fe;
+  position: relative;
+  z-index: 1;
+}
+
+@media (max-width: 767px) {
+  .contact {
+    padding-top: 80px;
+    padding-bottom: 50px;
+  }
+}
+
+
 /* ===== FAQ CSS ===== */
 .faq {
   padding-top: 120px;
@@ -842,6 +876,7 @@ p {
 .team {
   padding-top: 120px;
   padding-bottom: 80px;
+  background: #f3f4fe;
 }
 
 @media (max-width: 767px) {
