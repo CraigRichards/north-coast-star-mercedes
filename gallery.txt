@@ -1,12 +1,7 @@
 -- Gallery --
 
 <div class="carousel-wrap" style="position: relative;"><div class="caroufredsel_wrapper" style="text-align: start; float: none; position: relative; inset: 0px; z-index: auto; width: 1160px; height: 117.562px; margin: 0px; overflow: hidden; cursor: move;"><ul class="themify_builder_slider carousel_init" data-id="slider-4356-0-0-1" data-visible="1" data-mob-visible="" data-scroll="1" data-auto-scroll="7" data-speed="4" data-wrap="no" data-arrow="no" data-pagination="no" data-effect="fade" data-height="variable" data-pause-on-hover="false" data-horizontal="" style="text-align: left; float: none; position: absolute; inset: 0px auto auto 0px; margin: 0px; width: 19720px; height: 220.438px; opacity: 1; z-index: auto;">
-                            
-            
-            
-            
-            
-            
+                                   
             
             <li style="width: 1160px;">
             <div class="slide-inner-wrap">
